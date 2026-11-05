@@ -1,0 +1,12 @@
+autogen-agentchat==0.7.5
+autogen-core==0.7.5
+autogen-ext[openai]==0.7.5
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+streamlit>=1.40
+plotly
+pandas
+pypdf
+python-dotenv
