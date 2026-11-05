@@ -4,6 +4,7 @@ autogen-ext[openai]==0.7.5
 langchain
 langchain-openai
 langchain-community
+langchain_community
 faiss-cpu
 streamlit>=1.40
 plotly
